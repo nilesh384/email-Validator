@@ -1,1 +1,1 @@
-# weather-application
+# Basic email validator project (only frontend)
